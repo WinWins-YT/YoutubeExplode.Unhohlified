@@ -1,4 +1,4 @@
-# YoutubeExplode
+# YoutubeExplode.Unhohlified
 
 [![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
 [![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/YoutubeExplode/main.yml?branch=master)](https://github.com/Tyrrrz/YoutubeExplode/actions)
@@ -17,8 +17,9 @@
     <img src="favicon.png" alt="Icon" />
 </p>
 
-**YoutubeExplode** is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks.
+**YoutubeExplode.Unhohlified** is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks.
 Behind a layer of abstraction, this library works by scraping raw page data and exploiting reverse-engineered internal endpoints.
+And all of this without russophobia.
 
 > 📝 Want to learn more about how YouTube works under the hood?
 > [Read this article](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited).
